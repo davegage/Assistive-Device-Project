@@ -8,6 +8,7 @@ Need the following packages:
   -playsound
   -gTTS
   -speechrecognition
+  -PyAudio
   -maybe time?
 -Server and Client Certificates are used for authentication. Copied code from https://www.electricmonk.nl/log/2018/06/02/ssl-tls-client-certificate-verification-with-python-v3-4-sslcontext/
 
